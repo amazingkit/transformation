@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+html{
+    background-color: rgb(229, 230, 230);
+}
+body{
+    font-family: "Shadows Into Light", cursive;
+    
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: larger;
+}
